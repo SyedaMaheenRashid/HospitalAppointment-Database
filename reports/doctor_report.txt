@@ -1,0 +1,5 @@
+Doctor Report
+-------------
+Total doctors: 8
+Departments covered: Cardiology, Neurology, Orthopedics, ENT
+Available doctors: 6
