@@ -1,0 +1,14 @@
+db.patients.updateOne(
+  { name: "Ali Raza" },
+  { $set: { disease: "Flu" } }
+)
+
+db.doctors.updateOne(
+  { name: "Dr. Sara Ahmed" },
+  { $set: { availability: "Mon-Sat" } }
+)
+
+db.appointments.updateOne(
+  { patient_name: "Ali Raza" },
+  { $set: { status: "Completed" } }
+)
