@@ -1,0 +1,5 @@
+db.patients.find()
+db.patients.find({ gender: "Female" })
+db.doctors.find({ department: "Cardiology" })
+db.appointments.find({ status: "Confirmed" })
+db.admins.find({ email: "admin@hospital.com" })
