@@ -1,0 +1,6 @@
+Patient Report
+--------------
+Total registered patients: 10
+Male patients: 4
+Female patients: 6
+Common diseases recorded: Fever, Flu, Diabetes, Cough
