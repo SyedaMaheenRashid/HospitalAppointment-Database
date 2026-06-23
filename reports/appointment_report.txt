@@ -1,0 +1,6 @@
+Appointment Report
+------------------
+Total appointments: 12
+Confirmed appointments: 7
+Pending appointments: 3
+Cancelled appointments: 2
