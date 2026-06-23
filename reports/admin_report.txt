@@ -1,0 +1,4 @@
+Admin Report
+------------
+Total admins: 2
+System managed by hospital administration records stored in database.
