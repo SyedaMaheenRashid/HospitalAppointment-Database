@@ -1,0 +1,3 @@
+db.patients.deleteOne({ name: "Ali Raza" })
+db.doctors.deleteOne({ name: "Dr. Sara Ahmed" })
+db.appointments.deleteOne({ patient_name: "Ali Raza" })
