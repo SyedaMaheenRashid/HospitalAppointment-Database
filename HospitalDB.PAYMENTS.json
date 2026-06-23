@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "6a38c89620c6a5eca38347f5"
+  },
+  "paymentId": "PAY001",
+  "appointmentId": "A001",
+  "patientId": "P001",
+  "amount": 2000,
+  "paymentMethod": "Cash",
+  "paymentStatus": "Paid",
+  "paymentDate": "2026-06-25"
+},
+{
+  "_id": {
+    "$oid": "6a38c8a220c6a5eca38347f7"
+  },
+  "paymentId": "PAY002",
+  "appointmentId": "A002",
+  "patientId": "P002",
+  "amount": 3500,
+  "paymentMethod": "Credit Card",
+  "paymentStatus": "Pending",
+  "paymentDate": "2026-06-26"
+},
+{
+  "_id": {
+    "$oid": "6a38c8af20c6a5eca38347f9"
+  },
+  "paymentId": "PAY003",
+  "appointmentId": "A004",
+  "patientId": "P004",
+  "amount": 1500,
+  "paymentMethod": "Bank Transfer",
+  "paymentStatus": "Paid",
+  "paymentDate": "2026-06-25"
+},
+{
+  "_id": {
+    "$oid": "6a38c8bc20c6a5eca38347fb"
+  },
+  "paymentId": "PAY004",
+  "appointmentId": "A005",
+  "patientId": "P005",
+  "amount": 1200,
+  "paymentMethod": "Cash",
+  "paymentStatus": "Paid",
+  "paymentDate": "2026-06-28"
+},
+{
+  "_id": {
+    "$oid": "6a38c8c820c6a5eca38347fd"
+  },
+  "paymentId": "PAY005",
+  "appointmentId": "A006",
+  "patientId": "P006",
+  "amount": 2800,
+  "paymentMethod": "Debit Card",
+  "paymentStatus": "Paid",
+  "paymentDate": "2026-06-26"
+},
+{
+  "_id": {
+    "$oid": "6a38c8d320c6a5eca38347ff"
+  },
+  "paymentId": "PAY006",
+  "appointmentId": "A007",
+  "patientId": "P007",
+  "amount": 2200,
+  "paymentMethod": "Cash",
+  "paymentStatus": "Paid",
+  "paymentDate": "2026-06-27"
+},
+{
+  "_id": {
+    "$oid": "6a38c8df20c6a5eca3834801"
+  },
+  "paymentId": "PAY007",
+  "appointmentId": "A008",
+  "patientId": "P008",
+  "amount": 1800,
+  "paymentMethod": "Credit Card",
+  "paymentStatus": "Paid",
+  "paymentDate": "2026-06-24"
+},
+{
+  "_id": {
+    "$oid": "6a38c8ef20c6a5eca3834803"
+  },
+  "paymentId": "PAY008",
+  "appointmentId": "A003",
+  "patientId": "P003",
+  "amount": 0,
+  "paymentMethod": "None",
+  "paymentStatus": "Cancelled",
+  "paymentDate": "2026-06-27"
+},
+{
+  "_id": {
+    "$oid": "6a38c90520c6a5eca3834805"
+  },
+  "paymentId": "PAY009",
+  "appointmentId": "A009",
+  "patientId": "P009",
+  "amount": 3000,
+  "paymentMethod": "Bank Transfer",
+  "paymentStatus": "Pending",
+  "paymentDate": "2026-06-29"
+},
+{
+  "_id": {
+    "$oid": "6a38c91c20c6a5eca3834807"
+  },
+  "paymentId": "PAY010",
+  "appointmentId": "A010",
+  "patientId": "P010",
+  "amount": 2500,
+  "paymentMethod": "Debit Card",
+  "paymentStatus": "Paid",
+  "paymentDate": "2026-06-25"
+}]

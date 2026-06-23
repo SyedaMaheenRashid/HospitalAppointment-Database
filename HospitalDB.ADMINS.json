@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "6a38c81220c6a5eca38347e3"
+  },
+  "adminId": "AD001",
+  "username": "admin",
+  "password": "admin123"
+},
+{
+  "_id": {
+    "$oid": "6a38c82320c6a5eca38347e5"
+  },
+  "adminId": "AD002",
+  "username": "manager",
+  "password": "manager123"
+},
+{
+  "_id": {
+    "$oid": "6a38c83120c6a5eca38347e7"
+  },
+  "adminId": "AD003",
+  "username": "reception",
+  "password": "recep456"
+}]

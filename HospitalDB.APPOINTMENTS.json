@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "6a38c73f20c6a5eca38347ce"
+  },
+  "appointmentId": "A001",
+  "patientId": "P001",
+  "doctorId": "D001",
+  "appointmentDate": "2026-06-25",
+  "appointmentTime": "06:00 PM",
+  "status": "Pending",
+  "remarks": "First visit"
+},
+{
+  "_id": {
+    "$oid": "6a38c74b20c6a5eca38347d0"
+  },
+  "appointmentId": "A002",
+  "patientId": "P002",
+  "doctorId": "D002",
+  "appointmentDate": "2026-06-26",
+  "appointmentTime": "11:00 AM",
+  "status": "Confirmed",
+  "remarks": "Routine check-up"
+},
+{
+  "_id": {
+    "$oid": "6a38c75a20c6a5eca38347d2"
+  },
+  "appointmentId": "A003",
+  "patientId": "P003",
+  "doctorId": "D003",
+  "appointmentDate": "2026-06-27",
+  "appointmentTime": "04:30 PM",
+  "status": "Cancelled",
+  "remarks": "Patient rescheduled"
+},
+{
+  "_id": {
+    "$oid": "6a38c76720c6a5eca38347d4"
+  },
+  "appointmentId": "A004",
+  "patientId": "P004",
+  "doctorId": "D004",
+  "appointmentDate": "2026-06-25",
+  "appointmentTime": "09:00 AM",
+  "status": "Confirmed",
+  "remarks": "Follow-up"
+},
+{
+  "_id": {
+    "$oid": "6a38c77320c6a5eca38347d6"
+  },
+  "appointmentId": "A005",
+  "patientId": "P005",
+  "doctorId": "D005",
+  "appointmentDate": "2026-06-28",
+  "appointmentTime": "02:00 PM",
+  "status": "Pending",
+  "remarks": "Child vaccination"
+},
+{
+  "_id": {
+    "$oid": "6a38c78320c6a5eca38347d8"
+  },
+  "appointmentId": "A006",
+  "patientId": "P006",
+  "doctorId": "D006",
+  "appointmentDate": "2026-06-26",
+  "appointmentTime": "05:00 PM",
+  "status": "Confirmed",
+  "remarks": "Pregnancy check"
+},
+{
+  "_id": {
+    "$oid": "6a38c79720c6a5eca38347da"
+  },
+  "appointmentId": "A007",
+  "patientId": "P007",
+  "doctorId": "D007",
+  "appointmentDate": "2026-06-27",
+  "appointmentTime": "10:30 AM",
+  "status": "Completed",
+  "remarks": "Eye examination"
+},
+{
+  "_id": {
+    "$oid": "6a38c7b020c6a5eca38347dc"
+  },
+  "appointmentId": "A008",
+  "patientId": "P008",
+  "doctorId": "D008",
+  "appointmentDate": "2026-06-24",
+  "appointmentTime": "12:00 PM",
+  "status": "Completed",
+  "remarks": "Ear infection"
+},
+{
+  "_id": {
+    "$oid": "6a38c7c220c6a5eca38347de"
+  },
+  "appointmentId": "A009",
+  "patientId": "P009",
+  "doctorId": "D009",
+  "appointmentDate": "2026-06-29",
+  "appointmentTime": "11:00 AM",
+  "status": "Pending",
+  "remarks": "Counseling session"
+},
+{
+  "_id": {
+    "$oid": "6a38c7d720c6a5eca38347e0"
+  },
+  "appointmentId": "A010",
+  "patientId": "P010",
+  "doctorId": "D010",
+  "appointmentDate": "2026-06-25",
+  "appointmentTime": "04:00 PM",
+  "status": "Confirmed",
+  "remarks": "Kidney check"
+}]

@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "6a38c84d20c6a5eca38347ea"
+  },
+  "departmentId": "DEP001",
+  "departmentName": "Cardiology",
+  "description": "Heart and cardiovascular treatments"
+},
+{
+  "_id": {
+    "$oid": "6a38c85820c6a5eca38347ec"
+  },
+  "departmentId": "DEP002",
+  "departmentName": "Dermatology",
+  "description": "Skin, hair and nail disorders"
+},
+{
+  "_id": {
+    "$oid": "6a38c86420c6a5eca38347ee"
+  },
+  "departmentId": "DEP003",
+  "departmentName": "Neurology",
+  "description": "Nervous system and brain disorders"
+},
+{
+  "_id": {
+    "$oid": "6a38c87120c6a5eca38347f0"
+  },
+  "departmentId": "DEP004",
+  "departmentName": "Orthopedics",
+  "description": "Bone, joint and muscle care"
+},
+{
+  "_id": {
+    "$oid": "6a38c87d20c6a5eca38347f2"
+  },
+  "departmentId": "DEP005",
+  "departmentName": "Pediatrics",
+  "description": "Child health from infancy to adolescence"
+}]

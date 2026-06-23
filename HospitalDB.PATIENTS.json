@@ -1,0 +1,130 @@
+[{
+  "_id": {
+    "$oid": "6a38c4b020c6a5eca38347a2"
+  },
+  "patientId": "P001",
+  "name": "Ali Khan",
+  "email": "ali.khan@gmail.com",
+  "phone": "03001234567",
+  "age": 28,
+  "gender": "Male",
+  "address": "123 Gulberg, Lahore",
+  "password": "ali123"
+},
+{
+  "_id": {
+    "$oid": "6a38c4c220c6a5eca38347a4"
+  },
+  "patientId": "P002",
+  "name": "Ayesha Malik",
+  "email": "ayesha.malik@gmail.com",
+  "phone": "03211234567",
+  "age": 34,
+  "gender": "Female",
+  "address": "456 F-7, Islamabad",
+  "password": "ayesha456"
+},
+{
+  "_id": {
+    "$oid": "6a38c54720c6a5eca38347a6"
+  },
+  "patientId": "P003",
+  "name": "Bilal Ahmed",
+  "email": "bilal.ahmed@gmail.com",
+  "phone": "03451234567",
+  "age": 45,
+  "gender": "Male",
+  "address": "789 Clifton, Karachi",
+  "password": "bilal789"
+},
+{
+  "_id": {
+    "$oid": "6a38c55620c6a5eca38347a8"
+  },
+  "patientId": "P004",
+  "name": "Fatima Noor",
+  "email": "fatima.noor@gmail.com",
+  "phone": "03151234567",
+  "age": 22,
+  "gender": "Female",
+  "address": "321 DHA, Lahore",
+  "password": "fatima321"
+},
+{
+  "_id": {
+    "$oid": "6a38c5a420c6a5eca38347aa"
+  },
+  "patientId": "P005",
+  "name": "Usman Sheikh",
+  "email": "usman.sheikh@gmail.com",
+  "phone": "03451234568",
+  "age": 50,
+  "gender": "Male",
+  "address": "567 Saddar, Rawalpindi",
+  "password": "usman567"
+},
+{
+  "_id": {
+    "$oid": "6a38c5e520c6a5eca38347ae"
+  },
+  "patientId": "P006",
+  "name": "Sana Tariq",
+  "email": "sana.tariq@gmail.com",
+  "phone": "03331234567",
+  "age": 29,
+  "gender": "Female",
+  "address": "234 Gulshan-e-Iqbal, Karachi",
+  "password": "sana234"
+},
+{
+  "_id": {
+    "$oid": "6a38c5fa20c6a5eca38347b0"
+  },
+  "patientId": "P007",
+  "name": "Hamza Abbas",
+  "email": "hamza.abbas@gmail.com",
+  "phone": "03161234567",
+  "age": 37,
+  "gender": "Male",
+  "address": "789 G-11, Islamabad",
+  "password": "hamza789"
+},
+{
+  "_id": {
+    "$oid": "6a38c60a20c6a5eca38347b2"
+  },
+  "patientId": "P008",
+  "name": "Zara Hussain",
+  "email": "zara.hussain@gmail.com",
+  "phone": "03071234567",
+  "age": 26,
+  "gender": "Female",
+  "address": "456 Model Town, Lahore",
+  "password": "zara456"
+},
+{
+  "_id": {
+    "$oid": "6a38c61a20c6a5eca38347b4"
+  },
+  "patientId": "P009",
+  "name": "Omar Farooq",
+  "email": "omar.farooq@gmail.com",
+  "phone": "03441234567",
+  "age": 42,
+  "gender": "Male",
+  "address": "123 Canal Road, Faisalabad",
+  "password": "omar123"
+},
+{
+  "_id": {
+    "$oid": "6a38c62820c6a5eca38347b6"
+  },
+  "patientId": "P010",
+  "name": "Hina Rizvi",
+  "email": "hina.rizvi@gmail.com",
+  "phone": "03181234567",
+  "age": 31,
+  "gender": "Female",
+  "address": "567 Bosan Road, Multan",
+  "password": "hina567"
+}]

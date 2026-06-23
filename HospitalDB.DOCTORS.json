@@ -1,0 +1,166 @@
+[{
+  "_id": {
+    "$oid": "6a38c66320c6a5eca38347b9"
+  },
+  "doctorId": "D001",
+  "name": "Dr. Sara Ahmed",
+  "specialization": "Cardiologist",
+  "email": "sara.ahmed@hospital.com",
+  "phone": "03123456789",
+  "availableDays": [
+    "Monday",
+    "Wednesday",
+    "Friday"
+  ],
+  "availableTime": "5 PM - 9 PM",
+  "roomNo": "12"
+},
+{
+  "_id": {
+    "$oid": "6a38c68e20c6a5eca38347bb"
+  },
+  "doctorId": "D002",
+  "name": "Dr. Usman Ali",
+  "specialization": "Dermatologist",
+  "email": "usman.ali@hospital.com",
+  "phone": "03211234567",
+  "availableDays": [
+    "Tuesday",
+    "Thursday"
+  ],
+  "availableTime": "10 AM - 2 PM",
+  "roomNo": "7"
+},
+{
+  "_id": {
+    "$oid": "6a38c69a20c6a5eca38347bd"
+  },
+  "doctorId": "D003",
+  "name": "Dr. Fatima Noor",
+  "specialization": "Neurologist",
+  "email": "fatima.noor@hospital.com",
+  "phone": "03331234567",
+  "availableDays": [
+    "Monday",
+    "Tuesday",
+    "Wednesday"
+  ],
+  "availableTime": "3 PM - 7 PM",
+  "roomNo": "9"
+},
+{
+  "_id": {
+    "$oid": "6a38c6b720c6a5eca38347bf"
+  },
+  "doctorId": "D004",
+  "name": "Dr. Imran Khan",
+  "specialization": "Orthopedic",
+  "email": "imran.khan@hospital.com",
+  "phone": "03451234567",
+  "availableDays": [
+    "Thursday",
+    "Friday",
+    "Saturday"
+  ],
+  "availableTime": "8 AM - 12 PM",
+  "roomNo": "15"
+},
+{
+  "_id": {
+    "$oid": "6a38c6ce20c6a5eca38347c1"
+  },
+  "doctorId": "D005",
+  "name": "Dr. Ayesha Tariq",
+  "specialization": "Pediatrician",
+  "email": "ayesha.tariq@hospital.com",
+  "phone": "03151234567",
+  "availableDays": [
+    "Monday",
+    "Tuesday",
+    "Thursday"
+  ],
+  "availableTime": "2 PM - 6 PM",
+  "roomNo": "3"
+},
+{
+  "_id": {
+    "$oid": "6a38c6dc20c6a5eca38347c3"
+  },
+  "doctorId": "D006",
+  "name": "Dr. Bilal Ahmed",
+  "specialization": "Gynecologist",
+  "email": "bilal.ahmed@hospital.com",
+  "phone": "03221234567",
+  "availableDays": [
+    "Wednesday",
+    "Friday"
+  ],
+  "availableTime": "4 PM - 8 PM",
+  "roomNo": "18"
+},
+{
+  "_id": {
+    "$oid": "6a38c6f820c6a5eca38347c5"
+  },
+  "doctorId": "D007",
+  "name": "Dr. Sana Malik",
+  "specialization": "Ophthalmologist",
+  "email": "sana.malik@hospital.com",
+  "phone": "03341234567",
+  "availableDays": [
+    "Monday",
+    "Thursday",
+    "Saturday"
+  ],
+  "availableTime": "9 AM - 1 PM",
+  "roomNo": "22"
+},
+{
+  "_id": {
+    "$oid": "6a38c70820c6a5eca38347c7"
+  },
+  "doctorId": "D008",
+  "name": "Dr. Hamza Sheikh",
+  "specialization": "ENT Specialist",
+  "email": "hamza.sheikh@hospital.com",
+  "phone": "03461234567",
+  "availableDays": [
+    "Tuesday",
+    "Wednesday",
+    "Friday"
+  ],
+  "availableTime": "11 AM - 3 PM",
+  "roomNo": "5"
+},
+{
+  "_id": {
+    "$oid": "6a38c71720c6a5eca38347c9"
+  },
+  "doctorId": "D009",
+  "name": "Dr. Zara Hussain",
+  "specialization": "Psychiatrist",
+  "email": "zara.hussain@hospital.com",
+  "phone": "03171234567",
+  "availableDays": [
+    "Monday",
+    "Friday"
+  ],
+  "availableTime": "10 AM - 2 PM",
+  "roomNo": "28"
+},
+{
+  "_id": {
+    "$oid": "6a38c72520c6a5eca38347cb"
+  },
+  "doctorId": "D010",
+  "name": "Dr. Omar Farooq",
+  "specialization": "Urologist",
+  "email": "omar.farooq@hospital.com",
+  "phone": "03471234567",
+  "availableDays": [
+    "Thursday",
+    "Saturday"
+  ],
+  "availableTime": "3 PM - 7 PM",
+  "roomNo": "14"
+}]
