@@ -1,0 +1,26 @@
+db.patients.aggregate([
+  {
+    $group: {
+      _id: "$gender",
+      totalPatients: { $sum: 1 }
+    }
+  }
+])
+
+db.doctors.aggregate([
+  {
+    $group: {
+      _id: "$department",
+      totalDoctors: { $sum: 1 }
+    }
+  }
+])
+
+db.appointments.aggregate([
+  {
+    $group: {
+      _id: "$status",
+      totalAppointments: { $sum: 1 }
+    }
+  }
+])
